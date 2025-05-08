@@ -1,0 +1,3 @@
+[submodule "darla/themes/hugo-bearblog"]
+	path = darla/themes/hugo-bearblog
+	url = https://github.com/janraasch/hugo-bearblog.git
